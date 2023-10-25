@@ -17,19 +17,19 @@ https://github.com/ayoubrakine/TP_LOCATION_PHONE/assets/117600764/a0aa86bb-e301-
 # Getting Started
 
 
-## Requirements:
+## Requirements
 
 - Android Studio with the Android SDK installed.
 - An Android device or emulator running Android 7.0 (API level 24) or higher.
   
-## Installation Steps:
+## Installation Steps
 
 - Copy the repository to your local machine by using the following command: git clone https://github.com/ayoubrakine/TP_LOCATION_PHONE.git
 - Launch Android Studio
 - Open the project in Android Studio
 - Compile and execute the application on your Android device or emulator
   
-## Dependencies:
+## Dependencies
 
 - Volley: This is an HTTP library designed for Android
 - Google Maps SDK: Utilized for map display on Android
